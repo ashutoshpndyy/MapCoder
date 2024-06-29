@@ -3,6 +3,17 @@ __pycache__
 **__pycache__
 .vscode
 *workspace*
+.DS_Store
+*.pyc
+__pycache__/
+.env
+.venv
+.ipynb_checkpoints
+.cache
+bin
+*.jsonl
+*.json
+*.csv
 
 samples/*
 desktop.ini
