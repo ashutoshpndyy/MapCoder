@@ -11,8 +11,6 @@ __pycache__/
 .ipynb_checkpoints
 .cache
 bin
-*.jsonl
-*.json
 *.csv
 
 samples/*
